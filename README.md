@@ -31,3 +31,38 @@
 
 - Controler l'utilisation de nos données personnelles
 - Enjeux écologiques
+
+### Différentes étapes d'un projet IA
+
+![Screenshot](img/etapes.png)
+
+- Récuperation des données :
+-     Il faut récupérer de la donnée pertinente, sans données, impossible d'assurer le succès d'un projet IA.
+- Nettoyer les données :
+-     Regarder s'il n'y pas des données manquantes
+-     S'assurer qu'il n'y a pas de données aberrantes
+- Explorer les données :
+-     Se poser les bonnes questions sur la manière dont on souhaite étudier ces données
+-     Permet de verifier les hypothèses ou intuitions
+- Modéliser les données :
+-     Objectif c'est d'anticiper, pour cela on va utiliser le Machine Learning
+-     Première phase : l'apprentissage, entrainement du modèle avec des exemples, donc des données.
+-     Deuxième phase : prédiction
+- Evaluez et interprétez les données :
+-     Confirmer si oui ou non les prévisions qu'il fournit sont de qualité
+
+### Le Machine Learning
+
+- Definir un pb
+- Choisir un modèle sur lequel s'appuyer
+-     Un modèle est une représentation mathématique d'un problème donné.
+-     Créer un programme capable de collecter toutes les données disponibles pour un problème donné, et d’apprendre lui-même à partir de ces données pour construire son propre modèle.
+- L'apprentissage
+-      Etape qui permet de construire notre modèle : On fournit à l'algorithme de nombreux exemples à analyser pour qu'il puisse apprendre par l'expérience.
+-      Apprentissage supervisé:
+-      Apprentissage non supervisé: On ne sait pas à l'avance ce qu'on va trouver, il n'y a pas d'étiquettes
+-      Apprentissage par essai/erreur: agent, qui intéragit avec un environnement. Son objectif est de trouver par tâtonnements successifs (essai ou erreur) la solution optimale à un problème donné. On dit que cet algorithme est auto-adaptatif : il est en apprentissage constant.
+
+### Le Deep Learning
+
+- 
