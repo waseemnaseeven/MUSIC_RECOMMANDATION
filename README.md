@@ -37,7 +37,7 @@
 ![Screenshot](img/etapes.png)
 
 - Récuperation des données :
--     Il faut récupérer de la donnée pertinente, sans données, impossible d'assurer le succès d'un projet IA.
+    - Il faut récupérer de la donnée pertinente, sans données, impossible d'assurer le succès d'un projet IA.
 - Nettoyer les données :
 -     Regarder s'il n'y pas des données manquantes
 -     S'assurer qu'il n'y a pas de données aberrantes
