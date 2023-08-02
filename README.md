@@ -65,4 +65,21 @@
 
 ### Le Deep Learning
 
-- 
+- C'est un réseau de neurones artificiels convolutifs, il y a :
+  - une **entrée** : les données fournies
+  - une **sortie** : le résultat attendu
+  - entre les deux : un reseau neuronal
+    
+Ici, l'algorithme doit s'entrainer à, par ex, reconnaitre chaque photo et déterminer la personne. Au départ, il se trompe car il n'a aucune expérience.
+
+- La convolution n'est rien d'autre qu'un filtrage, c'est séparer ce qui pourrait probablement être notre résultat et d'autres non.
+    - On va se déplacer progressivement sur les différentes zones de l'image en effectuant ce qu'on appelle des **pas**.
+
+### L'IA générative
+
+- Generative:
+> Cela signifie que c’est une IA générative, dont le rôle est de générer du contenu – du texte, des images, des vidéos, ou tout à la fois si c’est une IA générative multimodale.
+- Pre-trained:
+> C’est une IA qui a été entraînée au préalable. On lui a fait lire des millions et des millions de livres, sites web, pages de l’encyclopédie en ligne Wikipédia. Cet entraînement lui permet d’avoir une connaissance du monde et du lien entre les mots (ou d’autres formes de contenu). Cette connaissance s’arrête à une certaine date (date de son dernier entraînement).
+- Transformer:
+> C’est le nom de l’algorithme qui sert de base à GPT. Il a été inventé par des chercheurs de Google et publié sous un célèbre papier de recherche *“Attention is all you need”*. Ce papier a été une petite révolution dans le monde de l’IA, car il permet à l’ordinateur de rapidement concentrer son attention sur les informations les plus pertinentes. Il permet aussi de traiter de nombreuses tâches en parallèle, et donc de mieux bénéficier de la puissance de calcul pour son fonctionnement.
